@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://clickfortech.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://clickfortech.com/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2022-02-05T18:39:04+00:00</updated><id>https://clickfortech.com/feed.xml</id><title type="html">Click For Tech</title><subtitle>Latest and trending technology topics are published here.</subtitle><author><name>Ashok</name></author><entry><title type="html">Elon Musk Private Jet Tracker</title><link href="https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker/" rel="alternate" type="text/html" title="Elon Musk Private Jet Tracker" /><published>2022-02-05T04:55:00+00:00</published><updated>2022-02-05T04:55:00+00:00</updated><id>https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker</id><content type="html" xml:base="https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker/">&lt;p&gt;&lt;a href=&quot;https://twitter.com/JxckSweeney&quot;&gt;Jack Sweeney&lt;/a&gt;, a 19 year old college student made a deal of $5000 with Elon Musk for shutting down his twitter account &lt;a href=&quot;https://twitter.com/ElonJet&quot;&gt;@ElonJet&lt;/a&gt; which automatically tweets the location details of Elon’s private jet. He wrote a software program to parse the data, publicly available about the flying path of all the flights in ADS-B Exchange. Sweeney uses the flight’s latitude to determine whether the flight has landed or not. But it doesn’t show any information about future paths of the flights.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://clickfortech.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://clickfortech.com/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2022-06-19T17:23:28+00:00</updated><id>https://clickfortech.com/feed.xml</id><title type="html">Click For Tech</title><subtitle>Latest and trending technology topics are published here.</subtitle><author><name>Ashok</name></author><entry><title type="html">Cloud Firewall</title><link href="https://clickfortech.com/cloud/Cloud-Firewall/" rel="alternate" type="text/html" title="Cloud Firewall" /><published>2022-06-19T04:55:00+00:00</published><updated>2022-06-19T04:55:00+00:00</updated><id>https://clickfortech.com/cloud/Cloud-Firewall</id><content type="html" xml:base="https://clickfortech.com/cloud/Cloud-Firewall/">&lt;p&gt;Firewall is an essential part of every network, which examines all incoming
+packets and blocks malicious packets.&lt;/p&gt;
+
+&lt;h2 id=&quot;firewall&quot;&gt;Firewall&lt;/h2&gt;
+&lt;p&gt;Traditionally firewalls run in between a trusted internal network and an
+untrusted network (Internet) and monitors the incoming (ingress) traffic to
+the internal network and outgoing (egress) traffic from the internal network.
+Firewall blocks or allows traffic based on the rules configured. Network
+administrator holds the control of maintaining the Firewall rules. The border
+between a trusted network and the Internet is called as Network Perimeter.
+Traditional Firewalls are either in the form of Software or Hardware.&lt;/p&gt;
+
+&lt;h2 id=&quot;cloud-firewall&quot;&gt;Cloud Firewall&lt;/h2&gt;
+&lt;p&gt;A cloud firewall, as the name suggests, is a firewall that’s deployed in the
+cloud and also called as FWaaS (Firewall as a Service). This sits on the cloud
+to protect the cloud resources. Cloud resources are scattered in various
+data centres. So the Cloud Firewall forms a Virtual Network Perimeter among
+all those cloud resources of a particular organization and protects against
+any traffic. Cloud Firewalls can also be used to protect on premise resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../assets/images/2022/cloud-firewall/Cloud-Firewall.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;advantages-of-cloud-firewall&quot;&gt;Advantages of Cloud Firewall&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Easy to deploy&lt;/li&gt;
+  &lt;li&gt;Quick to scale&lt;/li&gt;
+  &lt;li&gt;High availability, automated backups, and hassle-free maintenance&lt;/li&gt;
+  &lt;li&gt;Streamlined access control&lt;/li&gt;
+  &lt;li&gt;Supportive of multiple cloud deployments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;downside-of-cloud-firewall&quot;&gt;Downside of Cloud Firewall&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;No complete control&lt;/li&gt;
+  &lt;li&gt;Not optimizable&lt;/li&gt;
+  &lt;li&gt;Advanced feature can slow down access to the resources&lt;/li&gt;
+  &lt;li&gt;Delay or Downtime of a cloud provider would affect Firewall Maintenance and
+Monitoring.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Ashok</name></author><category term="Cloud" /><category term="Cloud" /><summary type="html">Firewall is an essential part of every network, which examines all incoming packets and blocks malicious packets.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://clickfortech.com/assets/images/2022/cloud-firewall/Cloud-Firewall.jpg" /><media:content medium="image" url="https://clickfortech.com/assets/images/2022/cloud-firewall/Cloud-Firewall.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Elon Musk Private Jet Tracker</title><link href="https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker/" rel="alternate" type="text/html" title="Elon Musk Private Jet Tracker" /><published>2022-02-05T04:55:00+00:00</published><updated>2022-02-05T04:55:00+00:00</updated><id>https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker</id><content type="html" xml:base="https://clickfortech.com/internet/Elon-Musk-Private-Jet-Tracker/">&lt;p&gt;&lt;a href=&quot;https://twitter.com/JxckSweeney&quot;&gt;Jack Sweeney&lt;/a&gt;, a 19 year old college student made a deal of $5000 with Elon Musk for shutting down his twitter account &lt;a href=&quot;https://twitter.com/ElonJet&quot;&gt;@ElonJet&lt;/a&gt; which automatically tweets the location details of Elon’s private jet. He wrote a software program to parse the data, publicly available about the flying path of all the flights in ADS-B Exchange. Sweeney uses the flight’s latitude to determine whether the flight has landed or not. But it doesn’t show any information about future paths of the flights.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../../assets/images/2022/elon-musk-private-jet-tracker/elonjet.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
